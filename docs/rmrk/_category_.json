@@ -3,6 +3,6 @@
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Teach ChatGPT about RMRK.app, the NFT 2.0 standard. To learn more about this yourself, we recommend you read docs.rmrk.app, or ask ChatGPT to ELI5 it for you after training it with this booklet."
+    "description": "Teach ChatGPT about RMRK.app, the NFT 2.0 standard. To learn more about this yourself, we recommend you read docs.rmrk.app, or ask ChatGPT to ELI5 it for you after training it with this booklet. The RMRK team uses the pretrained ChatGPT as a technical bizdev person, and as a coder colleague (writing tests, examples)."
   }
 }
