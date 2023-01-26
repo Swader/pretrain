@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Pretrain Blog</title>
+        <link>https://pretrain.io/blog</link>
+        <description>Pretrain Blog</description>
+        <lastBuildDate>Fri, 20 Jan 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://pretrain.io/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Birth of the bots]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Birth of the bots" src="/assets/images/robot-0493f90c57dbcfa2d183384f7e42dee9.png" width="2048" height="2048" class="img_ev3q"></p><p>Hello World!</p><p>A while back I wanted to see if ChatGPT knew about RMRK, a company I started. It didn't, so I decided to teach it. The output I got after teaching it and talking to it about RMRK was so impressive, I decided to build a pre-train volume of knowledge you can just paste into ChatGPT and get the same results.</p><p>Experimenting some more, I realized this could be applied much wider, so I started adding other projects' docs into the ChatGPT chat sessions and it seemed to be working extremely well. Thus, Pretrain was born - a repository of "Booklets", sets of text formatted and meant for pasting into the ChatGPT prompt in order to teach it about the subject matter.</p><p>Over time, I hope this project will not be needed any more and ChatGPT will gain internet access and will be able to dynamically learn about provided content by crawling it. Until then, we can use Pretrain to keep feeding it volumes.</p><p>Go to tutorials to learn how to use it and how to contribute your own Booklets!</p>]]></content:encoded>
+            <category>pretrain</category>
+            <category>chatgpt</category>
+        </item>
+    </channel>
+</rss>

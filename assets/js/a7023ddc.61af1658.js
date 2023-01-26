@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpretrain=self.webpackChunkpretrain||[]).push([[1713],{3457:a=>{a.exports=JSON.parse('[{"label":"pretrain","permalink":"/blog/tags/pretrain","count":1},{"label":"chatgpt","permalink":"/blog/tags/chatgpt","count":1}]')}}]);
